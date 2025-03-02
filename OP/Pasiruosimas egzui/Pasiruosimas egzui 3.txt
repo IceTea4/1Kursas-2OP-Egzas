@@ -1,0 +1,21 @@
+﻿Moketi: Sąsajos klasės, išimtys, OP, rekursija,
+struktūros, bendrinės klasės,
+testavimas, delegatai ir įvykiai,
+taikymai
+
+1. Koks yra skirtumas tarp klasės ir objekto kintamųjų?
+"Klasės kintamųjų yra tik ..., o kiekvienas objektas turi ..."
+po viena, savo kintamuosius
+
+2. Kuo skiriasi pranešimo siuntimas nuo paprogramės kvietimo?
+"Pranešimai turi dvi dalis – ... ir ...".
+siuntejas ir gavejas
+
+3. Koks yra ryšys tarp abstraktaus ir virtualaus metodų?
+Abstraktus ir virtualus metodai abu gali buti igyventinami paveldinciose klasese. Visi abstraktus metodai yra virtualus.
+
+4. Koks yra skirtumas tarp abstraktaus ir virtualaus metodų?
+Abstraktus metodas neturi realizacijos, todel ji bus butina igyvendinti visose paveldimose klasese, o virtualaus metodo nebutina pakeisti paveldinciose klasese
+
+5. Kokį vardą gali turėti įvykių valdytojas C#?
+EventHandler, subscriber

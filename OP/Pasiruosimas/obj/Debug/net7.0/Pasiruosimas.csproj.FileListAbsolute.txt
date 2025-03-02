@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/Pasiruosimas/bin/Debug/net7.0/Pasiruosimas
+/Users/IceTea/Projects/Pasiruosimas/bin/Debug/net7.0/Pasiruosimas.deps.json
+/Users/IceTea/Projects/Pasiruosimas/bin/Debug/net7.0/Pasiruosimas.runtimeconfig.json
+/Users/IceTea/Projects/Pasiruosimas/bin/Debug/net7.0/Pasiruosimas.dll
+/Users/IceTea/Projects/Pasiruosimas/bin/Debug/net7.0/Pasiruosimas.pdb
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.AssemblyInfo.cs
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.dll
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/refint/Pasiruosimas.dll
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.pdb
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/Pasiruosimas.genruntimeconfig.cache
+/Users/IceTea/Projects/Pasiruosimas/obj/Debug/net7.0/ref/Pasiruosimas.dll

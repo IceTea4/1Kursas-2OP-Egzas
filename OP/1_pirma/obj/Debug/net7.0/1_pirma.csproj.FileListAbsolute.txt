@@ -1,0 +1,15 @@
+/Users/IceTea/Projects/1_pirma/bin/Debug/net7.0/1_pirma
+/Users/IceTea/Projects/1_pirma/bin/Debug/net7.0/1_pirma.deps.json
+/Users/IceTea/Projects/1_pirma/bin/Debug/net7.0/1_pirma.runtimeconfig.json
+/Users/IceTea/Projects/1_pirma/bin/Debug/net7.0/1_pirma.dll
+/Users/IceTea/Projects/1_pirma/bin/Debug/net7.0/1_pirma.pdb
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.csproj.AssemblyReference.cache
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.AssemblyInfoInputs.cache
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.AssemblyInfo.cs
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.csproj.CoreCompileInputs.cache
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.dll
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/refint/1_pirma.dll
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.pdb
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/1_pirma.genruntimeconfig.cache
+/Users/IceTea/Projects/1_pirma/obj/Debug/net7.0/ref/1_pirma.dll
